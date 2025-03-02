@@ -25,9 +25,18 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton Lima. 🚀
 - **Linguagens de Programação:** C++, VHDL 
 - **Ferramentas:** Git, VS Code, Linux  
 
-## 📈 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)  
+### 📈 GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Welliton-Lima&show_icons=true&theme=dracula)
+
+### 🔥 Commits Recentes
+[![GitHub Streak](https://streak-stats.demolab.com?user=Welliton-Lima&theme=dracula)](https://git.io/streak-stats)
+
+### 🛠️ Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Welliton-Lima&layout=compact&langs_count=8&theme=dracula)
+
+### 🚀 Perfil GitHub Metrics
+![Metrics](https://metrics.lecoq.io/Welliton-Lima)
+
 
 
 ---

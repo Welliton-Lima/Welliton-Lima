@@ -34,10 +34,10 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton Lima. 🚀
 ### 🛠️ Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Welliton-Lima&layout=compact&langs_count=8&theme=dracula)
 
+<!--
 ### 🚀 Perfil GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/Welliton-Lima)
-
-
+-->
 
 ---
 ⭐ Sinta-se à vontade para explorar e entrar em contato.  

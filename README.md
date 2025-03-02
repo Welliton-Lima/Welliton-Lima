@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Welliton Lima. 🚀
 
 ## 🔧 Habilidades  
 - **Linguagens de Programação:** C++, VHDL 
-- **Ferramentas:** Git, VS Code, Linux  
+- **Ferramentas:** Git, VS Code  
 
 ### 📈 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Welliton-Lima&show_icons=true&theme=dracula)
